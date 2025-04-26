@@ -1,5 +1,5 @@
 # Description
-OS agnostic C library for creating applications
+OS agnostic Zig library for creating applications
 
 Modules:
 gpu - Adds abstractions and a way to easily manage the gpu using vulkan
